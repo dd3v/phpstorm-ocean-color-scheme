@@ -3,10 +3,12 @@ base16-phpstorm-color-schemes
 
 ## Preview
 
-<h2>Light color scheme</h2>
+<h4>Light color scheme</h4>
+
 <img src="https://github.com/dd3v/base16-phpstorm-color-schemes/blob/master/screens/light/php.png">
 
-<h2>Dark color scheme</h2>
+<h4>Dark color scheme</h4>
+
 <img src="https://github.com/dd3v/base16-phpstorm-color-schemes/blob/master/screens/dark/php.png?raw=true">
 
 [All screens](https://github.com/dd3v/base16-phpstorm-color-schemes/tree/master/screens)
