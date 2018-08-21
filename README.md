@@ -17,3 +17,4 @@ You can modify fonts in `Preferences | Editor | Colors & Fonts | Font` after add
 
 Screenshots
 -----------------
+![light](https://github.com/dd3v/PhpStorm-ocean-color-scheme/blob/master/screens/light.png?raw=true)
